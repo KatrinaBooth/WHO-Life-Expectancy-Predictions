@@ -46,6 +46,6 @@ This is a link to the data required for the project: [WHO data](https://noodle.d
 
 Katrina Booth: katrinalilybooth@gmail.com
 
-Project Link: [https://github.com/KatrinaBooth/TMDB-Project](https://github.com/KatrinaBooth/TMDB-Project)
+Project Link: [https://github.com/KatrinaBooth/WHO-Life-Expectancy-Predictions](https://github.com/KatrinaBooth/WHO-Life-Expectancy-Predictions)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
